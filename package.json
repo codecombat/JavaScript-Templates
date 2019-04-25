@@ -1,5 +1,5 @@
 {
-  "name": "blueimp-tmpl",
+  "name": "tmpl",
   "version": "3.11.0",
   "title": "JavaScript Templates",
   "description": "1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like Node.js, module loaders like RequireJS, Browserify or webpack and all web browsers.",
